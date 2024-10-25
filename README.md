@@ -17,9 +17,9 @@ git clone https://github.com/jeremiahf24/ADS-Capstone.git
 In order for key partners and government agencies to effectively implement a humanitarian response in regards to the aftermath of natural disasters, they would require accurate damage assessments. This project seeks to leverage the application of advanced machine learning techniques in order to utilize high-resolution satellite images in order to identify proper impact reports. Automating the analysis of satellite data, one aims to enhance and provide situational awareness for first responders. This definitively allows for proper resource allocation to the areas most impacted. Integration of these techniques with satellite imagery can optimize disaster response operations, ultimately accelerating recovery efforts and saving lives.
 
 ## Partner(s)/Contributor(s)  
-•	Jeremiah Fa'atiliga
-•	Ravita Kartawinata 
-•	Sowmiya Kanmani Maruthavanan
+*	Jeremiah Fa'atiliga
+*	Ravita Kartawinata 
+*	Sowmiya Kanmani Maruthavanan
 
 ## Methods Used
 •	Programming
