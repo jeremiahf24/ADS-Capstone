@@ -22,22 +22,22 @@ In order for key partners and government agencies to effectively implement a hum
 *	Sowmiya Kanmani Maruthavanan
 
 ## Methods Used
-•	Programming
-•	Data Engineering
-•	Data Mining 
-•	Data Visualization
-•	Exploratory Data Analysis
-•	Predictive Modeling 
-•	Machine Learning
-•	Hyperparameter Tuning
-•	Image Analysis
-•	Neural Networks
+*	Programming
+*	Data Engineering
+*	Data Mining 
+*	Data Visualization
+*	Exploratory Data Analysis
+*	Predictive Modeling 
+*	Machine Learning
+*	Hyperparameter Tuning
+*	Image Analysis
+*	Neural Networks
 
 
 ## Technologies
 A few examples are:
-•	Python
-•	Pre and Post Satellite Imagery
+*	Python
+*	Pre and Post Satellite Imagery
 
 
 ## Project Description
