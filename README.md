@@ -10,7 +10,7 @@ Pending
 ## Installation
 To use, install, run, or edit this project on your machine, follow these steps:
 
-git init
+git init  
 git clone https://github.com/jeremiahf24/ADS-Capstone.git
 
 ## Project Intro/Objective
