@@ -48,4 +48,3 @@ This project is licensed under the MIT License. Please refer to the LICENSE file
 
 ## Acknowledgments
 We would like to express our sincere appreciation to our instructors and fellow cohort members in the ADS-599 course for their consistent guidance and support. Special thanks to the previously mentioned partners and data providers for their invaluable resources, which ultimately brought this project to fruition.
-
