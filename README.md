@@ -5,7 +5,7 @@ University of San Diego MS ADS 599: Capstone Project for Jeremiah Fa'atiliga, Ra
 Damage Assessment from Catastrophic Natural Events Using Satellite Imagery
 
 ## Project Status
-Pending
+Complete
 
 ## Installation
 To use, install, run, or edit this project on your machine, follow these steps:
@@ -41,7 +41,7 @@ A few examples are:
 
 
 ## Project Description
-This project is utilizing the xView2 dataset, which is specifically designed for natural disaster damage assessments. Currently, this dataset comprises of 2,438 JSON files. Each image is either a pre or post damage visual for the affected areas. The main question for this image driven initiative is which type of damages are most prevelant in the impacted areas? What is the severity of the damage correlated with the type of disaster and or categorical level of hurricanes? 
+This project is utilizing the xView2 dataset, which is specifically designed for natural disaster damage assessments. Currently, this dataset comprises of 2,438 JSON files. Each image is either a pre or post damage visual for the affected areas. Additionally, an important thing to note is that all the images, JSON files, and models are unable to be uploaded to GitHub due to size limitation. However, within the Modeling portion of the code is commented if the user desires to train their own model. The main question for this image driven initiative is which type of damages are most prevelant in the impacted areas? What is the severity of the damage correlated with the type of disaster and or categorical level of hurricanes? 
 
 ## License
 This project is licensed under the MIT License. Please refer to the LICENSE file in the project folder for more details.
